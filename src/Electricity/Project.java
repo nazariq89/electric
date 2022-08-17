@@ -13,8 +13,8 @@ public class Project extends JFrame implements ActionListener{
         setSize(1920,1030);
         
         /* Adding background image */
-        //testing
-        
+        //testing test
+
 
         ImageIcon ic =  new ImageIcon(ClassLoader.getSystemResource("icon/elect1.jpg"));
         Image i3 = ic.getImage().getScaledInstance(1900, 950,Image.SCALE_DEFAULT);
